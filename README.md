@@ -22,7 +22,7 @@ Este es un juego de supervivencia en 2D desarrollado en **Python** utilizando la
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/JuegoZombiesPygame.git
+   git clone https://github.com/SofiaRV03/JuegoZombiesPygame.git
    ```
 2. Instala la dependencia necesaria:
    ```bash
